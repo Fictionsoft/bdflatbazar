@@ -1,0 +1,179 @@
+body{
+    -ms-word-wrap: break-word!important;
+}
+.active{
+    color: #1F3F81!important;
+}
+.single_section {
+    float: left;
+    width: 100%;
+    color: #fff;
+    margin: 10px 0px;
+}
+.single_section p{
+    color: #fff;
+}
+.buy_section, .sell_section, .rent_section{
+    float: left;
+    width: 100%;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.buy_section{
+    background: #47A847;
+}
+.sell_section{
+    background: #FEB629;
+}
+.rent_section{
+    background: #E3192B;
+}
+.slider_bottom_icon{
+    font-size: 50px;
+}
+.rev_slider {
+    height: 520px!important;
+}
+.tp-fullwidth-forcer{
+    height: 520px!important;
+}
+div#rev_eight_forcefullwidth {
+    margin-top: 20px!important;
+}
+
+.single_post_property_list{
+    float: left;
+    width: 100%;
+    background: #eee;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    min-height: 829px;
+}
+.single_construction{
+    float: left;
+    width: 100%;
+    background: #eee;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    min-height: 280px;
+}
+
+.single_latest_req{
+    float: left;
+    width: 100%;
+    background: #eee;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    min-height: 183px;
+}
+
+.single_leading_developer{
+    float: left;
+    width: 100%;
+    background: #eee;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    min-height: 138px;
+}
+.construct_head{
+    background: #eee;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.padding{
+    padding: 25px 0px!important;
+}
+.footer{
+     padding-top: 0px!important;
+}
+.padding_half {
+    padding: 0px!important;
+    padding-top: 45px!important;
+}
+.buy_pro_search_sec{
+    background: #eee;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+.apartment_type{
+    padding: 12px 0px;
+}
+.submit_btn{
+    background:#6291f1;
+    color:#fff;
+    padding:5px 20px;
+    display:inline-block;
+    height:44px;
+    font-weight:bold;
+    line-height:32px;
+    font-size:14px;
+    width:100%; margin-bottom:15px;
+    text-align: center;
+}
+.submit_btn > i {
+    font-size: 20px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+.leading_developer_head{
+    background: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.leading_developer_banner_bottom {
+    padding-top: 15px;
+}
+.leading_developer_banner img{
+    height: 400px;
+}
+.leading_developer_hotline {
+    text-align: center;
+    margin-top: 10px;
+}
+.leading_developer_hotline h2{
+    color: #173471;
+    margin-bottom: 20px;
+}
+.leading_developer_profile > p > font{
+    font-size: 17px!important;
+}
+.details_leading_project {
+    width: 180px;
+    text-align: center;
+    margin: 30px auto 0px auto;
+}
+.leading_project_description {
+    min-height: 200px;
+}
+.offer_img img {
+    width: 100%;
+}
+.offer_img a h3{
+    color: #B53D25;
+    text-align: center;
+    font-family: 'Yellowtail',cursive;
+    padding-bottom: 15px;
+}
+.error-text h1{
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+}
+.recaptcha_theme_red #recaptcha_response_field {
+    height: 34px!important;
+}
+#login .profile-login .btn-slide {
+    margin-bottom: 20px;
+}
+.all_items img{
+    height: 270px!important;
+}
+.tag_l{
+    background: #FEB629!important;
+}
+.footer{ margin:0px 0 0px 0!important; padding-top:10px; }

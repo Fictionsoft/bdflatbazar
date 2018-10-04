@@ -1,0 +1,1 @@
+<section id="faqs" class="padding_half bottom40">    <div class="container">        <div class="row">            <h2 class="bottom20">Success Notice</h2>            <p>Thank you for post your requirement. Admin have the authority to remove the post anytime.</p>        </div>    </div></section>

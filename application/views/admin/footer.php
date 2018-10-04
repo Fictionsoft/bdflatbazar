@@ -1,0 +1,1 @@
+<div id="footer">&copy; 2008-12, Admin Panel.</div>
